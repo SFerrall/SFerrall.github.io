@@ -7,6 +7,10 @@ import {BrowserRouter, Route, Routes} from 'react-router-dom';
 //import SimpleReactLightbox from 'simple-react-lightbox'
 import "lightgallery.js/dist/css/lightgallery.css"
 import {LightgalleryProvider} from "react-lightgallery"
+import CraftingPage from './crafting';
+import AssetsPage from './gameAssets';
+import WikiPage from './wiki';
+import ProjectsPage from './projects';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -16,7 +20,10 @@ root.render(
         <Routes>
           
             <Route exact path='/' element={<App />} />
-            <Route path='/profile' element={<App />} />
+            <Route path='/crafting' element={<CraftingPage />} />
+            <Route path='/assets' element={<AssetsPage />} />
+            <Route path='/wiki' element={<WikiPage />} />
+            <Route path='/projects' element={<ProjectsPage />} />
         
         </Routes>
       

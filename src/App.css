@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  width: 1024px;
+  
 }
 
 .App-logo {
@@ -39,13 +41,13 @@
 
 .grid {
   display: grid;
-  padding: 0vw;
-  margin: 1vw;
-  grid-template-columns: repeat(auto-fit, minmax(10vw, 1fr));
+  padding: 1vw;
+  margin: 2vw;
+  grid-template-columns: repeat(auto-fit, minmax(20%, 1fr));
   gap: 0.1rem;
   background-color:rgb(50, 51, 49);
   border-style: solid;
-  border-width: 10px;
+  border-width: 5px;
   border-color: rgb(84, 185, 225);
   color: rgb(84, 185, 225);
   text-align: center;
@@ -56,10 +58,16 @@
 }
 
 .myHeader {
-  background-color: cadetblue;
+  background-color: #212229;
   font-size: calc(10px + 1vmin);
   padding: 10px;
-  
+  border-bottom: 5px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-color: rgb(46, 75, 203);
+  border-style: solid;
+  color: cadetblue;
 }
 
 .myImage {
@@ -130,7 +138,7 @@
 
 figure {
   text-align: center;
-  font-size: calc(2px + 1.5vmin);
+  font-size: calc(1px + 1.5vmin);
   margin: 0.5vw;
   padding: 0.5vw;
 
@@ -149,5 +157,35 @@ figure {
 }
 
 body {
-  background-color: rgb(241, 242, 240);
+  background-color:#1B1D21;
+  
+}
+
+.link {
+  color: rgb(235, 231, 226);
+  font-size: calc(10px + 1.5vmin);
+  padding-right: 10px;
+  
+  background-color: #1B1D21;
+}
+
+.wrapper {
+  width: 1024px;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #212229;
+  color: white;
+  
+}
+
+.navbar {
+  background-color: #1B1D21;
+  
+  
+}
+
+.page {
+  width: 974px;
+  padding: 25px;
 }
