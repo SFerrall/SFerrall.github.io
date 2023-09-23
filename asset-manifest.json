@@ -1,16 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.39fe1ee9.js",
+    "main.css": "/static/css/main.753b20e7.css",
+    "main.js": "/static/js/main.8210e769.js",
     "static/js/787.67b99310.chunk.js": "/static/js/787.67b99310.chunk.js",
+    "static/media/Ammonia_Sabatier.png": "/static/media/Ammonia_Sabatier.057ace7bc6ebe628fd82.png",
+    "static/media/Ammonium_Nitrate.png": "/static/media/Ammonium_Nitrate.aa0579d653c83002c8ec.png",
+    "static/media/mix_anfo.png": "/static/media/mix_anfo.6464502513010cecbb4e.png",
+    "static/media/Sulfuric_Acid.png": "/static/media/Sulfuric_Acid.0e02c640ba2c04f4f7e9.png",
+    "static/media/Ammonia_II_loot.png": "/static/media/Ammonia_II_loot.970d3effe4f97782ac4f.png",
+    "static/media/Nitrous_Oxide.png": "/static/media/Nitrous_Oxide.a309380432d2d2ce82d7.png",
+    "static/media/Ammonia_I_loot.png": "/static/media/Ammonia_I_loot.a6cd4f3cf5d43b91a86e.png",
+    "static/media/Ammonia_III.png": "/static/media/Ammonia_III.c6c8f9bc220d2e15268a.png",
+    "static/media/Sulfuric_Acid_loot.png": "/static/media/Sulfuric_Acid_loot.005bbb6c07393e8ca4b5.png",
+    "static/media/Ammonia_I.png": "/static/media/Ammonia_I.997c57ab50972b743199.png",
+    "static/media/Ammonia_II.png": "/static/media/Ammonia_II.14b393e3d30d15e100d7.png",
+    "static/media/Ammonia_III_loot.png": "/static/media/Ammonia_III_loot.bed84e87cd3bb7f9201c.png",
+    "static/media/Nitric_Oxide.png": "/static/media/Nitric_Oxide.d0810d942389d61e1060.png",
+    "static/media/nitric_acid_loot.png": "/static/media/nitric_acid_loot.e118defcd660df7e1da4.png",
+    "static/media/Nitric_Oxide_loot.png": "/static/media/Nitric_Oxide_loot.e935ba9635174a85517c.png",
+    "static/media/Nitric_Acid.png": "/static/media/Nitric_Acid.92fcc2d2e03d9803244f.png",
+    "static/media/lg.svg?22t19m": "/static/media/lg.adb7aeef16adb8599e2d.svg",
+    "static/media/lg.woff?22t19m": "/static/media/lg.0add59587d07387b771f.woff",
+    "static/media/lg.ttf?22t19m": "/static/media/lg.a53dcc5ea47fe7d1d9fc.ttf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.39fe1ee9.js.map": "/static/js/main.39fe1ee9.js.map",
+    "main.753b20e7.css.map": "/static/css/main.753b20e7.css.map",
+    "main.8210e769.js.map": "/static/js/main.8210e769.js.map",
     "787.67b99310.chunk.js.map": "/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.39fe1ee9.js"
+    "static/css/main.753b20e7.css",
+    "static/js/main.8210e769.js"
   ]
 }
