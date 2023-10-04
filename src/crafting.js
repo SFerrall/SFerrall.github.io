@@ -29,8 +29,7 @@ function CraftingPage(){
 
             
                 <h4>Complex Crafting and Economy Design</h4>
-                <p>text</p>
-                <p>text</p>
+                
                 <div className='homeGrid'>
                     <img src={mom_banner}className='homeImage' alt="Million on Mars Web3 Game"></img>
                     <h2>Balanced Crafting Chains and Content Design</h2>
@@ -39,13 +38,13 @@ function CraftingPage(){
                         <li>Over 50 new recipes, items and quests added to the Web3 game Million on Mars on the WAX, Polygon and Solona networks delivering value to the player owned assets, driving sales for the team and stimulating economic activity in-game. </li>
                         <li>Programatically balanced recipe designs implemented with my own custom built analysis tools using Python, Pandas Dataframes and Google Sheets</li>
                         <li>Full cycle design from early concept through production and live-ops including release notes, items descriptions and post release community suppport</li>
-                        <li>Methodoligies employed to create new in game resource sinks and giving new uses to over supplied items in game resulting in drastic changes to the in-game prices, global supply numbers and demand curves of a large number of affected resources </li>
-                        <li>Far reaching content adding new tasks and interest to over half of the existing buildings in game spanning 6 different player professions and 80 expertise levels</li>
-                        <li>Complex scientifically accurate chemical reactions chains and descriptions</li>
-                        <li>Brand new mechanics for the Mining profession in game introducing new tools, resources and ways to process materials</li>
+                        <li>Methodoligies employed to create new in game resource sinks and giving new uses to over supplied items resulting in drastic changes to the in-game prices, global supply numbers and demand curves of a large number of affected resources </li>
+                        <li>Far reaching content: adding new tasks and interest to over half of the existing buildings in game spanning 6 different player professions and 80 expertise levels</li>
+                        <li>Complex, scientifically accurate chemical reaction chains and descriptions</li>
+                        <li>Brand new mechanics for the Mining profession: introducing new tools, resources and ways to process materials</li>
                         <li>Expansive loot table designs</li>
-                        <li>Worked closely with the CEO Erick Bethke and the lead game designer Mitch Zamara, discussing game balance, content updates and the game's roadmap</li>
-
+                        <li>Worked closely with the CEO Erick Bethke and lead game designer Mitch Zamara, discussing game balance, content updates and the game's roadmap</li>
+                        <li>50 new character NPC personalities created each having their own distinct traits and personality profiles</li>
                     </ul>
                     
                 </div>

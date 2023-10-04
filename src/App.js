@@ -43,6 +43,7 @@ function App() {
         <br></br> 
         As a full-stack developer whose main strength is game and systems design, this portfolio site is here to showcase my work for professional projects both in production as well as in the concept stages.  
         <div className='homeGrid'>
+          <h2>Professional Portfolio</h2>
           <figure>
             <img src={mom_banner} className="image" alt="Million on Mars" onClick={onMomBannerClick}></img>
             <figcaption><strong>Balanced Web3 Crafting Chains</strong></figcaption>
@@ -79,7 +80,7 @@ function App() {
           </figure>
           </div>
           
-          <div>Godot, Unreal Engine, Unity Engine, Pygame, React</div>
+          
 
           <figure>
           <img src={eternal_universe_minesweeper} className="homeImage" alt="Godot Game Engine"></img>
@@ -97,13 +98,13 @@ function App() {
           <figcaption>Linked in</figcaption>
           </figure>
           
-          <div>there</div>
+          
           <figure>
           <img src={gmail_banner} className="image" alt="Gmail"></img>
           
           <figcaption><strong>Contact</strong></figcaption>
           </figure>
-          <div>are</div>            
+                    
 
           
         </div>
