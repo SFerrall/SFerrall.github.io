@@ -7,16 +7,23 @@ function PageHeader(){
     return(
         <div>
             <header className='myHeader'>
-                <h1>Stefan Ferrall</h1>
-                <h3>Game Design</h3>
+                
+                <div>
+                    <h2><strong>Stefan Ferrall</strong></h2>
+                    <p >Game Design</p>
+                    
+                </div>
+                
+                
             </header>
              
                 <nav className='navbar'>
                     <Link className='link' to="/">Home</Link>
-                    <Link className='link' to="/crafting">Crafting Design</Link>
-                    <Link className='link' to="/assets">Art & Assets</Link>
-                    <Link className='link' to="/wiki">Wiki Design</Link>
+                    <Link className='link' to="/crafting">Design</Link>
+                    <Link className='link' to="/assets">Art</Link>
+                    <Link className='link' to="/wiki">Wiki</Link>
                     <Link className='link' to="/projects">Projects</Link>
+                    <Link className='link' to="/contact">Contact</Link>
                 </nav>
             
         </div>

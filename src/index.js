@@ -11,6 +11,7 @@ import CraftingPage from './crafting';
 import AssetsPage from './gameAssets';
 import WikiPage from './wiki';
 import ProjectsPage from './projects';
+import ContactPage from './contact';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -24,6 +25,7 @@ root.render(
             <Route path='/assets' element={<AssetsPage />} />
             <Route path='/wiki' element={<WikiPage />} />
             <Route path='/projects' element={<ProjectsPage />} />
+            <Route path='/contact' element={<ContactPage />} />
         
         </Routes>
       
